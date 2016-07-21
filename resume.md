@@ -3,7 +3,7 @@ layout: resume
 title: Paul Philion resume
 ---
 
-# Paul Philion (please excuse the work in progress)
+# Paul Philion
 
 ## Objective
 
