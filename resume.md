@@ -27,19 +27,19 @@ Extensive experience in software architecture, development and team leadership
 
 * Designing scalable solutions for the future of education and learning science.
         
-### Senior Software Engineer, <a href="http://www.wally-home.com/about/">SNUPI Technologies</a>, Seattle, Washington, February 2013 - May 2014
+### Senior Software Engineer, [SNUPI Technologies](http://www.wallyhome.com/), Seattle, Washington, February 2013 - May 2014
 
 * Designed the architecture for a highly scalable data collection system, to collect in-home environmental conditions, using MongoDB, Redis, Dropwizard and Node.js.
 * Developed the cloud software for node discovery and installation.</li>
 * Worked closely with iOS, Android and web developers to integrate cloud capabilities into a variety of rich UX experiences.
             
-### Principal Software Engineer, <a href="http://www.brightcove.com/">Brightcove</a>, Seattle, WA, September 2011 - February 2013
+### Principal Software Engineer, [Brightcove](http://www.brightcove.com), Seattle, WA, September 2011 - February 2013
 
 * Lead the YouTube integration team, to publish Brightcove content to YouTube and other 3rd parties.
 * Worked with other technical leaders to integrate REST services (and refactored UX) across the products lines.
 * Provided technical leadership for the acquisition and integration of Zencoder products.
 
-### Chief Architect, <a href="https://en.wikipedia.org/wiki/Lockerz">Lockerz.com</a>, Seattle, WA, July 2010 - August 2011
+### Chief Architect, [Lockerz.com](https://en.wikipedia.org/wiki/Lockerz), Seattle, WA, July 2010 - August 2011
 
 * Defined and developed microservice platform, based on Internet Communications Engine.
 * Architected highly-scalable auction system. Developed key components designed for scale and reliability.
@@ -50,19 +50,19 @@ Extensive experience in software architecture, development and team leadership
 * Developed prototype cloud-based device pairing capabilities, across multiple devices.
 * Researched media integration and immersive experiences.</li>
             
-### Senior Architect, <a href="http://www.verdiem.com">Verdiem, Inc.</a>, Seattle, WA, December 2007 - December 2009
+### Senior Architect, [Verdiem, Inc.](http://www.verdiem.com), Seattle, WA, December 2007 - December 2009
 
 * Developed architecture and server-side code for Edison. Built out a datacenter to host the Edison servers. Deployed and configured monitoring software to ensure production quality.
 * Designed PMP, a standard, JSON-based protocol for managing power across diverse devices, leveraging disconnected operation for scalability.
 * Implemented the device proxy service to manage devices not directly supporting the PMP protocol. Built adapters for Cisco EnergyWise and SNMP.
 * Worked closely with Cisco to integrate EnergyWise-based technologies into Verdiem products. Acted as technical lead for EnergyWise integration effort.
 
-### Senior Architect, <a href="http://www.docusign.com/">DocuSign, Inc., Seattle, WA, May 2007 - December 2007
+### Senior Architect, [DocuSign, Inc.](http://www.docusign.com), Seattle, WA, May 2007 - December 2007
 
 * Responsible for key design and architectural decisions in the "next generation" product, based on a scalable CORBA framework, using Java, Spring and Hibernate.
 * Designed and implemented key services within the product for distributed document conversion and migrating existing customer to the new product seamlessly.
 
-### Software Development Engineer III, <a href="http://www.amazon.com/">Amazon.com</a>, Seattle, WA, February 2006 - May 2007
+### Software Development Engineer III, [Amazon.com](http://www.amazon.com), Seattle, WA, February 2006 - May 2007
 
 * Architect and lead developer of a innovative AWS web services platform at Amazon.com. Designed highly dynamic framework with robust XML marshaling and a distinct business process layer to support rapid deployment of web services through back-end service aggregation.
 * Provided mentoring and coordination across project groups in Amazon to encourage better SOA design and software reuse.
@@ -75,7 +75,7 @@ Extensive experience in software architecture, development and team leadership
 
 * Lead architecture and design of distributed component-based interactive voice gateway. Developed components for input recognition, caching and VoiceXML interpretation. Worked with customers to gather requirements and develop use cases, project and test plans. Developed automated test framework for black-box component-level testing and full system automation testing.
 
-### Director, Product Development, <a href="http://www.mindbox.com/">MindBox, Inc.</a>, Atlanta, GA, August 2000 - July 2002
+### Director, Product Development, MindBox, Inc., Atlanta, GA, August 2000 - July 2002
 
 * Responsible for the specification, design and leading the development of Java-based tools to operate with the existing MindBox product line. Responsible for the development of Java enterprise integration architecture and best practices. Responsible for development of XML-based standards for rule representation and Java-based standard for rule system integration.
             
@@ -87,7 +87,7 @@ Extensive experience in software architecture, development and team leadership
 
 * Technical lead on an agent-based web application for a large insurance company. Project involved architecture and development of software agents operating in a NetDynamics application server. Technical team lead on Online Agent, to provide point-of-sale support for the ordering of BellSouth products and services. Development was done under HP-UX, using Java, Orbix, WebObjects, C++ and Oracle.Technical team lead on Solution Advisor, an award-winning BellSouth Small Business web-based application which uses a KnowledgeBase engine to recommend BellSouth products for specific business needs. Development was done under HP-UX, using C++, WebObjects and Oracle. Developed a logging and reporting architecture for Java CORBA server, based on Java, JDBC and OrbixWeb. Served as the Java and web application consultant/mentor for the Atlanta regional office.
 
-### Senior Software Engineer, <a href="http://www.arrisi.com/">Arris Interactive</a>, Norcross, GA, February 1996 - March 1997x
+### Senior Software Engineer, Arris Interactive, Norcross, GA, February 1996 - March 1997
 
 * Designed and developed alarm surveillance and paging software for digital video servers, using C++, Motif and UIM/X. Ported this software to both IRIX and Solaris platforms. Developed applications for network monitoring and server configuration using Java and AWT. Responsible for user interface guidelines and standards.
 
@@ -103,12 +103,14 @@ Extensive experience in software architecture, development and team leadership
 ## Education
 
 B.S., <a href="http://www.cs.vt.edu/">Computer Science</a> & <a href="http://server.phil.vt.edu/">Philosophy</a>, minor in <a href="http://www.math.vt.edu/index1.html">Mathematics</a>, <a href="http://www.vt.edu/">Virginia Polytechnic Institute and State University</a>, Blacksburg, VA, December, 1989</div>
+
 * Computer Science Intern at Philip Morris USA - Richmond, Virginia. Designed and implemented an executive information system, which collected and correlated information from various on-line information services, using SQL, DB2 and HyperTalk on the Mac.
 * Computer Science Co-op at the <a href="http://www.nsa.gov/">National Security Agency</a> - Fort Meade, Maryland. Designed and developed the Orange Book in HyperCard, a hypertext version of the <a href="http://www.fas.org/irp/nsa/rainbow/tg003.htm"> Trusted Computer System Evaluation Criteria</a>, using HyperTalkand Pascal.
 	
 ## Certification
 
 Consulted as a subject matter expert with Sun Microsystems to develop the Java certification exams.
+
 * Sun Certified <a href="http://suned.sun.com/US/certification/java/java_web.html">Web Component Developer</a>
 * Sun Certified <a href="http://suned.sun.com/US/certification/java/java_archj2ee.html">Enterprise Architect</a>
 * Sun Certified <a href="http://suned.sun.com/US/certification/java/java_devj2se.html">Java Developer</a>
