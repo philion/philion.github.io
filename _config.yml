@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Dependencies
 #markdown:         redcarpet
 #highlighter:      pygments
@@ -9,7 +11,7 @@ permalink:        pretty
 title:            Acme Rocket
 tagline:          'Field Notes'
 description:      'Personal ruminations about technology and what not.'
-url:              https://philion.github.io/resume/
+url:              https://philion.github.io/
 
 author:
   name:           'Paul Philion'
