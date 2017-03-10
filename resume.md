@@ -35,7 +35,8 @@ title: Paul Philion resume
 ### Senior Research Engineer, Disney Advanced Technologies, 2009-2010
 
 * Developed prototype cloud-based device pairing capabilities, across multiple devices.
-* Researched media integration and immersive experiences.</li>
+* Researched media integration and immersive experiences.
+* Contributed to OAUTH 2.0 security architecture.
             
 ### Senior Architect, [Verdiem, Inc.](http://www.verdiem.com), 2008-2009
 
